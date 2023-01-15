@@ -7,11 +7,12 @@
     overflow-x: hidden;
     position: absolute;
     top: 100%;
-    left: 0;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
   }
 
   body {
-    height: 70vh;
+    height: 100%;
   }
 
   main {
@@ -32,11 +33,11 @@
   }
 
   .btn--roll {
-    top: 30rem;
+    top: 25rem;
   }
 
   .btn--hold {
-    top: 37rem;
+    top: 32rem;
   }
 
   .dice {
